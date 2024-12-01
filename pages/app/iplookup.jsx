@@ -69,4 +69,3 @@ const IpLookup = () => {
 };
 
 export default IpLookup;
-git init
